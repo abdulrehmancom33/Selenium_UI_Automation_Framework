@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‹ÖÜ8³¢Œ©¡1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(É™¦üÿÿÿÿÿ8»¢Œ©¡1
+c
+java:S1128"FRemove this unused import 'io.github.bonigarcia.wdm.WebDriverManager'.(°Ëõ‰8¾¢Œ©¡1
+`
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8¾¢Œ©¡1

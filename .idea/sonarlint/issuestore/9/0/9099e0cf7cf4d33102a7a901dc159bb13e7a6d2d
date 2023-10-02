@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üœ°Èşÿÿÿÿ
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘”øÙùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÊ‘œ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ï¤ü
+Q	java:S125"<This block of commented-out lines of code should be removed.(ª¶
+_
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó

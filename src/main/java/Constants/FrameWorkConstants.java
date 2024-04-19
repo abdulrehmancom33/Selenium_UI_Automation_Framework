@@ -6,7 +6,6 @@ import java.time.Duration;
 
 public final class FrameWorkConstants {
 
-
 	private static final String resourcesPath = System.getProperty("user.dir") + "/src/test/resources";
 	//private static final String chromeDriverPath = resourcesPath + "/Executable/chromedriver.exe";
 	private static final String configFilePath = resourcesPath + "/Config/ConfigProperties";
